@@ -1,0 +1,5 @@
+Welcome to the NcX changelog
+
+Changelog from 20231231 > 20231231 [Magisk re-installation required]:
+• Initial release
+• Release based on May S21 FE Firmware (G990B2XXU5FWK3)
